@@ -83,3 +83,37 @@ SELECT * FROM mentorship_eligibilty;
 -- it's recommended that this list include the highest
 -- position attained (e.g., this code, as opposed to the code
 -- used to generate the module screenshot).
+
+-- Deliverable 3: A written report on the employee database analysis
+
+SELECT COUNT(emp_no)
+FROM unique_titles;
+
+SELECT COUNT(emp_no)
+FROM emp_count;
+
+DROP TABLE emp_count CASCADE;
+
+--Add'l code 1 of 2
+SELECT e.emp_no,
+	e.first_name,
+	e.last_name,
+	ti.title,
+	ti.from_date,
+	ti.to_date
+INTO not_retiring
+FROM employees AS e
+LEFT JOIN titles AS ti
+ON (e.emp_no = ti.emp_no)
+WHERE (e.birth_date NOT BETWEEN '1952-01-01' AND '1955-12-31')
+ORDER BY e.emp_no ASC, to_date DESC, from_date DESC;
+
+--Add'l code 2 of 2
+SELECT COUNT(title), title
+INTO not_retiring_titles
+FROM not_retiring
+GROUP BY title
+ORDER BY count DESC;
+
+SELECT * FROM not_retiring;
+SELECT * FROM not_retiring_titles;
