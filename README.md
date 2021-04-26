@@ -18,15 +18,22 @@ There is a bulleted list with four major points from the two analysis deliverabl
 
 
 Retirement Titles
+
 ![Retirement Titles](https://github.com/crkaide/Pewlett-Hackard-Analysis/blob/main/screenshots/screenshot_retirement_titles.png?raw=true)
 
-Unique Titles
+
+_*Unique Titles*_
+
 ![Unique Titles](https://github.com/crkaide/Pewlett-Hackard-Analysis/blob/main/screenshots/screenshot_unique_titles.png?raw=true)
 
+
 Retiring Titles
+
 ![Retiring Titles](https://github.com/crkaide/Pewlett-Hackard-Analysis/blob/main/screenshots/screenshot_retiring_titles.png?raw=true)
 
+
 Mentorship Eligibility
+
 ![Mentorship Eligibility](https://github.com/crkaide/Pewlett-Hackard-Analysis/blob/main/screenshots/screenshot_mentorship_eligibilty.png?raw=true)
 
 
