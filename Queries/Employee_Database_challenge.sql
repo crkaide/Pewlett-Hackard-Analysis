@@ -117,3 +117,6 @@ ORDER BY count DESC;
 
 SELECT * FROM not_retiring;
 SELECT * FROM not_retiring_titles;
+
+SELECT COUNT(title)
+FROM not_retiring_titles;
