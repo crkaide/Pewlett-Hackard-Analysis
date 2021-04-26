@@ -51,7 +51,24 @@ More than 90,000 roles/titles will need to be filled (90,398) when the retiremen
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
+_***Add'l Code 1 of 2***_
 
+![Add'l Code 1 of 2](https://github.com/crkaide/Pewlett-Hackard-Analysis/blob/main/screenshots/addl_code_1.png?raw=true)
+
+
+_***Add'l Code 1 OUTPUT***_
+
+![Add'l Code 1 OUTPUT](https://github.com/crkaide/Pewlett-Hackard-Analysis/blob/main/screenshots/addl_code_1_output.png?raw=true)
+
+
+_***Add'l Code 2 of 2***_
+
+![Add'l Code 2 of 2](https://github.com/crkaide/Pewlett-Hackard-Analysis/blob/main/screenshots/addl_code_2.png?raw=true)
+
+
+_***Add'l Code 2 OUTPUT***_
+
+![Add'l Code 2 OUTPUT](https://github.com/crkaide/Pewlett-Hackard-Analysis/blob/main/screenshots/addl_code_2_output.png?raw=true)![image](https://user-images.githubusercontent.com/79725508/116024695-60e35500-a614-11eb-9b4f-2371fc48ffdb.png)
 
 
 
