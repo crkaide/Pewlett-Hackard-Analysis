@@ -40,11 +40,16 @@ SELECT * FROM retiring_titles;
 -- DELIVERABLE 1 NOTE:  The output from the third code block
 -- does not match the output in the screenshot for this
 -- section of the module.  I've checked multiple ways, and
--- this output appears correct, rather than the module screenshot.
+-- the output here appears correct, rather than the module screenshot.
 -- I speculate that the screenshot comes from a slightly
 -- different version of the module than the dataset
 -- (additionally evidenced by the slightly higher resolution
--- of this one screenshot from those around it).
+-- of this one screenshot from those around it).  It's also
+-- possible that the programmer in the module sorted unique_titles
+-- in an order different than that specified in the module
+-- instructions before eliminating duplicates.  Conclusion:  as
+-- far as my work shows, the module screenshot is incorrect and
+-- the retiring_titles counts shown here are accurate.
 
 
 -- Deliverable 2: The Employees Eligible for the Mentorship Program
