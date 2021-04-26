@@ -35,16 +35,7 @@ _***Mentorship Eligibility (dataframe head)***_
 
 _DELIVERABLE 2 NOTE: The screenshot in the module seems to show inaccurate output in its row 3, reporting that staff member's highest title as "Staff" while the output of the above code reports that staff member's highest title as "Senior Staff." For the purposes of a mentorship program, it's recommended that this list include the highest position attained (e.g., this code, as opposed to the code used to generate the module screenshot)._
 
-
-
-
-
-## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight.
-
-TABLE 1 SUGGESTED:  No. of employees that hold more than 1 title, to evidence friendly culture of advancement.
-TABLE 1:  SENIOR VS JR LEVEL EMPLOYEES
-
+## Summary
 
 ### Roles to be filled as the "silver tsunami" begins to make an impact
 More than 90,000 roles/titles will need to be filled (90,398) when the retirements occur.
