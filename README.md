@@ -8,10 +8,10 @@ The client, Pewlett Hackard, represented by Bobby, wished to assemble a database
 
 Summary points (deliverables 1 and 2):
 
-1. FILL
-2. FILL
-3. FILL
-4. FILL
+1. While the urgency of the "silver tsunami" cannot be underestimated, data shows that the current company culture is friendly toward advancement.  ***Reference deliverable 1, Retirement Titles.***  Advancement to higher positions is apparent in the duplication of emp_no paired with unique titles; that is, many employees are already advancing at Pewlett Hackard.  Further analysis is below in the add'l tables section, but this is promising regarding the proposed mentorship program.
+2. ***Reference deliverable 1, Unique Titles.***
+3. ***Reference deliverable 1, Retiring Titles.***
+4. ***Reference deliverable 2, Mentorship Eligibility.***
 
 _***Retirement Titles (dataframe head)***_
 
@@ -41,6 +41,10 @@ _DELIVERABLE 2 NOTE: The screenshot in the module seems to show inaccurate outpu
 
 ## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight.
+
+TABLE 1 SUGGESTED:  No. of employees that hold more than 1 title, to evidence friendly culture of advancement.
+
+
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
