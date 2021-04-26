@@ -46,8 +46,8 @@ TABLE 1 SUGGESTED:  No. of employees that hold more than 1 title, to evidence fr
 TABLE 1:  SENIOR VS JR LEVEL EMPLOYEES
 
 
-### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-
+### Roles to be filled as the "silver tsunami" begins to make an impact
+More than 90,000 roles/titles will need to be filled (90,398) when the retirements occur.
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
