@@ -50,6 +50,7 @@ TABLE 1:  SENIOR VS JR LEVEL EMPLOYEES
 More than 90,000 roles/titles will need to be filled (90,398) when the retirements occur.
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+Although the number of retirements is significant, there are more than 300,000 current roles filled.  No department's retiring count reaches half the count of those employees not retiring.  There are enough qualified, retirement-ready employees in depts to mentor the next generation.
 
 _***Add'l Code 1 of 2***_
 
