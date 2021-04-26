@@ -1,12 +1,9 @@
 # Pewlett Hackard Analysis
 
-
-
-
-
 ## Overview of the analysis: Explain the purpose of this analysis.
-For this part of the Challenge, you’ll write a report to help the manager prepare for the upcoming "silver tsunami."
-The purpose of the new analysis is well defined.
+
+The client, Pewlett Hackard, represented by Bobby, wished to assemble a database that could be easily queried for actionable information regarding a large number of ancticipated upcoming retirements, the "silver tsunami."  The first analysis included visualizing connections between the company's existing datasets in an ERD, assembling them into a SQL database, merging, joining, and querying them in pgAdmin, and providing SQL statements applicable to any updated export(s) of the data.  Follow-up work, reported here, includes more organized reporting of the information for use by company administration and department managers, including number of retiring employees by title, as well as a list of employees eligible for a mentorship program meant to brace the company for the mass exit.
+
 
 
 
