@@ -13,26 +13,22 @@ Summary points (deliverables 1 and 2):
 3. FILL
 4. FILL
 
-
-There is a bulleted list with four major points from the two analysis deliverables.
-
-
-Retirement Titles
+_***Retirement Titles***_
 
 ![Retirement Titles](https://github.com/crkaide/Pewlett-Hackard-Analysis/blob/main/screenshots/screenshot_retirement_titles.png?raw=true)
 
 
-_*Unique Titles*_
+_***Unique Titles***_
 
 ![Unique Titles](https://github.com/crkaide/Pewlett-Hackard-Analysis/blob/main/screenshots/screenshot_unique_titles.png?raw=true)
 
 
-Retiring Titles
+_***Retiring Titles***_
 
 ![Retiring Titles](https://github.com/crkaide/Pewlett-Hackard-Analysis/blob/main/screenshots/screenshot_retiring_titles.png?raw=true)
 
 
-Mentorship Eligibility
+_***Mentorship Eligibility***_
 
 ![Mentorship Eligibility](https://github.com/crkaide/Pewlett-Hackard-Analysis/blob/main/screenshots/screenshot_mentorship_eligibilty.png?raw=true)
 
