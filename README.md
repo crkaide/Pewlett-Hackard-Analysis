@@ -13,12 +13,12 @@ Summary points (deliverables 1 and 2):
 3. FILL
 4. FILL
 
-_***Retirement Titles***_
+_***Retirement Titles (dataframe head)***_
 
 ![Retirement Titles](https://github.com/crkaide/Pewlett-Hackard-Analysis/blob/main/screenshots/screenshot_retirement_titles.png?raw=true)
 
 
-_***Unique Titles***_
+_***Unique Titles (dataframe head)***_
 
 ![Unique Titles](https://github.com/crkaide/Pewlett-Hackard-Analysis/blob/main/screenshots/screenshot_unique_titles.png?raw=true)
 
@@ -29,7 +29,7 @@ _***Retiring Titles***_
 
 _DELIVERABLE 1 NOTE: The output from the third code block, retiring_titles, does not match the output in the screenshot for this section of the module. I've checked multiple ways, and the output here appears correct, rather than the module screenshot. I speculate that the screenshot comes from a slightly different version of the module than the dataset (additionally evidenced by the slightly higher resolution of this one screenshot from those around it). It's also possible that the programmer in the module sorted unique_titles in an order different than that specified in the module instructions before eliminating duplicates. Conclusion: as far as my work shows, the module screenshot is incorrect and the retiring_titles counts shown here are accurate._
 
-_***Mentorship Eligibility***_
+_***Mentorship Eligibility (dataframe head)***_
 
 ![Mentorship Eligibility](https://github.com/crkaide/Pewlett-Hackard-Analysis/blob/main/screenshots/screenshot_mentorship_eligibilty.png?raw=true)
 
